@@ -1,0 +1,34 @@
+.CONTAINER{
+    
+    width: 0px;
+    height:100vh;
+    background-color: blue;
+    display: flex;
+    
+    flex-direction: column;
+    
+    
+    
+    
+   
+   
+}
+
+nav li{
+    
+   
+    padding: 10px;
+    cursor: pointer;
+    color: aliceblue;
+}
+
+.btn{
+    display: block;
+    margin: 4px;
+    width: 30px;
+    height: 5px;
+    background-color: aliceblue;
+    
+}
+
+
